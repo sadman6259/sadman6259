@@ -29,11 +29,11 @@
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **.NET**, **C#**, **Azure**, **SQL**, **TypeScript**, **JavaScript**
 - 📫 Reach me: [twitter.com/sadman6259](https://twitter.com/sadman6259)
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](files/sadman_resume.pdf).
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/python-original.svg" alt="c#"> <img height="48" src="img/django-plain-wordmark.svg" alt=".NET"> <img height="48" src="img/postgresql-original.svg" alt="Azure"> <img height="48" src="img/docker-original.svg" alt="MSSQL"> <img height="48" src="img/linux-original.svg" alt="Postgresql"> <img height="48" src="img/nginx-original.svg" alt="JS"> <img height="48" src="img/pytest-original.svg" alt="TS"> <img height="48" src="img/git-original.svg" alt="Angular">
 
 #### Development Stuffs:
 
