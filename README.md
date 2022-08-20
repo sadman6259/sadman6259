@@ -5,7 +5,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/sadman6259" alt="Leet code rating" />
   </a>
   <a href="https://stackoverflow.com/users/10116321/shafiqul-bari-sadman">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/10116321?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/sadman6259?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sadman6259?color=green&logo=github">
