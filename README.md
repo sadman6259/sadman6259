@@ -29,7 +29,7 @@
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **.NET**, **C#**, **Azure**, **SQL**, **TypeScript**, **JavaScript**
 - 📫 Reach me: [twitter.com/sadman6259](https://twitter.com/sadman6259)
-- 📝 Checkout my [Resume](files/sadman_resume.pdf).
+- 📝 Checkout my [Resume](sadman_resume.pdf).
 
 #### My Current Stack
 
