@@ -24,7 +24,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **Surbana Jurong Private Limited (Remotely)**
+- 🏢 I'm currently working at **Surbana Jurong Private Limited (Remote)**
 - ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.ts`
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **.NET**, **C#**, **Azure**, **SQL**, **TypeScript**, **JavaScript**
@@ -62,6 +62,6 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
 <a href="mailto:shafiqulbarisadman@gmail.com">
-  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
