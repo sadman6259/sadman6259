@@ -46,7 +46,6 @@
 <b>&#128200; Competitive Programming</b>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/sadman6259?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sadman6259/cf-stats/main/output/light_card.svg" />
 </p>
 
 
