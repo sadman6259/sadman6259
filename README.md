@@ -33,7 +33,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/c#.svg" alt="c#"> <img height="48" src="img/.net.svg" alt=".NET"> <img height="48" src="img/azure.svg" alt="Azure"> <img height="48" src="img/mssql.svg" alt="MSSQL"> <img height="48" src="img/postgresql.svg" alt="Postgresql"> <img height="48" src="img/js.svg" alt="JS"> <img height="48" src="img/ts.svg" alt="TS"> <img height="48" src="img/angular.svg" alt="Angular">
+<img height="48" src="img/c.svg" alt="C#"> <img height="48" src="img/net.svg" alt=".NET"> <img height="48" src="img/azure.svg" alt="Azure"> <img height="48" src="img/mssql.svg" alt="MSSQL"> <img height="48" src="img/postgresql.svg" alt="PostgreSQL"> <img height="48" src="img/js.svg" alt="JavaScript"> <img height="48" src="img/ts.svg" alt="TypeScript"> <img height="48" src="img/angular.svg" alt="Angular">
 
 #### Development Stuffs:
 
