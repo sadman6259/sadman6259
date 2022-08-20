@@ -33,7 +33,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="c#"> <img height="48" src="img/django-plain-wordmark.svg" alt=".NET"> <img height="48" src="img/postgresql-original.svg" alt="Azure"> <img height="48" src="img/docker-original.svg" alt="MSSQL"> <img height="48" src="img/linux-original.svg" alt="Postgresql"> <img height="48" src="img/nginx-original.svg" alt="JS"> <img height="48" src="img/pytest-original.svg" alt="TS"> <img height="48" src="img/git-original.svg" alt="Angular">
+<img height="48" src="img/c#.svg" alt="c#"> <img height="48" src="img/.net.svg" alt=".NET"> <img height="48" src="img/azure.svg" alt="Azure"> <img height="48" src="img/mssql.svg" alt="MSSQL"> <img height="48" src="img/postgresql.svg" alt="Postgresql"> <img height="48" src="img/js.svg" alt="JS"> <img height="48" src="img/ts.svg" alt="TS"> <img height="48" src="img/angular.svg" alt="Angular">
 
 #### Development Stuffs:
 
