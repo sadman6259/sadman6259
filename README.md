@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a software engineer working in Kuala lumpur, Malaysia
 
 <p align="left">
   <a href="https://leetcode.com/sadman6259/">
@@ -18,17 +18,17 @@
 
 #### Now
 
-- ✨ Working in data driven IOT Project;
+- ✨ Working in highly secured banking application;
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to .NET based open source projects 
 
 #### Bio
 
-- 🏢 I'm currently working at **Surbana Jurong Private Limited (Remote)**
+- 🏢 I'm currently working at **Accenture (Contractor)**
 - ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.ts`
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **.NET**, **C#**, **Azure**, **SQL**, **TypeScript**, **JavaScript**
-- 📫 Reach me: [twitter.com/sadman6259](https://twitter.com/sadman6259)
+- 📫 Reach me: [linkedin.com/sadman6259](https://linkedin.com/sadman6259)
 - 📝 Checkout my [Resume](sadman_resume.pdf).
 
 #### My Current Stack
