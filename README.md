@@ -28,7 +28,7 @@
 - ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.ts`
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **.NET**, **C#**, **Azure**, **SQL**, **TypeScript**, **JavaScript**
-- 📫 Reach me: [linkedin.com/sadman6259](https://linkedin.com/sadman6259)
+- 📫 Reach me: [linkedin.com/in/sadman6259](https://linkedin.com/in/sadman6259)
 - 📝 Checkout my [Resume](sadman_resume.pdf).
 
 #### My Current Stack
