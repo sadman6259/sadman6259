@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Kuala lumpur, Malaysia
+## Hi 👋, I'm a software engineer currently working in Kuala lumpur, Malaysia
 
 <p align="left">
   <a href="https://leetcode.com/sadman6259/">
