@@ -18,13 +18,13 @@
 
 #### Now
 
-- ✨ Working in highly secured banking application;
+- ✨ Working as a full stack .NET developer;
 - :fire: Interested in DevOps and Cloud engineering;
-- :calendar: Looking for contributing to .NET based open source projects 
+- :calendar: Looking for contributing to open source projects 
 
 #### Bio
 
-- 🏢 I'm currently working at **Accenture (Contractor)**
+- 🏢 I'm currently working at **Accenture**
 - ⚙️ I use daily: `.cs`, `.js`, `.sql`, `.ts`
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **.NET**, **C#**, **Azure**, **SQL**, **TypeScript**, **JavaScript**
