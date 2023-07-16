@@ -18,8 +18,8 @@
 
 #### Now
 
-- ✨ Working as a full stack .NET developer;
-- :fire: Interested in DevOps and Cloud engineering;
+- ✨ Working as a full stack .NET developer
+- :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to open source projects 
 
 #### Bio
